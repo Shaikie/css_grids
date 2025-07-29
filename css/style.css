@@ -102,13 +102,13 @@ height: 250px;
     
 }
 
-@keyframes identifier {
+/* @keyframes identifier { 
   to{
     opacity: 0;
     left: 0;
   }
   
-}
+}*/
 
 /* Small Devices (Phones) */
 @media (max-width: 600px) {
